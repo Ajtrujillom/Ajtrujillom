@@ -46,7 +46,6 @@ I'm a passionate **Software QA Engineer** with **5+ years of experience**, focus
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajtrujillom&show_icons=true&theme=dark&hide_title=false&hide_border=false" width="47%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajtrujillom&theme=dark&background=000000&hide_border=false" width="47%" alt="GitHub Streak"/>
 </p>
 
